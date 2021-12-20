@@ -1,0 +1,21 @@
+body {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+}
+.app input {
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+/* p {
+  display: inner-flex;
+  margin: auto 10px;
+  font-size: 22px;
+  color: blue;
+  border-radius: 6px;
+  border: 1px solid lightblue;
+  padding: 10px;
+} */

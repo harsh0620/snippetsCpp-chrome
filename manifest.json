@@ -1,0 +1,12 @@
+{
+  "name": "Motivational Quote",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "logo128x128.png"
+  },
+  "icons": {
+    "128": "logo128x128.png"
+  }
+}
