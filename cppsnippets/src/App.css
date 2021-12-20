@@ -1,21 +1,75 @@
-body {
-  width: 400px;
-  height: 400px;
+.app {
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+  overflow-y: scroll;
+  padding-bottom: 20px;
+}
+.header {
   display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.header-topic-anchor {
+  text-decoration: none;
+  color: #6d83f2;
+  font-weight: 500;
+}
+.icon {
+  width: 32px;
+  height: 32px;
   justify-content: center;
+  align-self: center;
+}
+.git {
+  width: 32px;
+  height: 32px;
+  justify-content: center;
+  align-self: center;
+  color: black;
+}
+.appInput {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
 }
 .app input {
-  width: 200px;
-  height: 40px;
+  width: 300px;
+  height: 30px;
   border-radius: 20px;
   border: 2px solid black;
+  margin-bottom: 30px;
 }
-/* p {
-  display: inner-flex;
-  margin: auto 10px;
-  font-size: 22px;
-  color: blue;
-  border-radius: 6px;
-  border: 1px solid lightblue;
-  padding: 10px;
-} */
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.card {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
+.card-box {
+  width: 250px;
+}
+.card-prefix {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card-prefix-tag {
+  font-weight: 900;
+}
+.copy {
+  align-self: center;
+  align-items: flex-end;
+}
