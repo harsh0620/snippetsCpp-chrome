@@ -17,6 +17,13 @@ This repository provides extension for chrome-extension editor which enables chr
 
 ---
 
+## ScreenShot
+
+![alt text](https://github.com/harsh0620/snippetsCpp-chrome/blob/main/images/ss1.png)
+![alt text](https://github.com/harsh0620/snippetsCpp-chrome/blob/main/images/ss2.png)
+
+---
+
 ## Author
 
 [Harsh Chandravanshi](https://harshchandravanshi.me): `Portfolio`
