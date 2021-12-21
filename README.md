@@ -8,6 +8,15 @@ This repository provides extension for chrome-extension editor which enables chr
 
 ---
 
+## Installation
+
+- Clone the repo in your local system
+- open chrome://extensions
+- make sure that developer mode is turned on
+- click load unpacked and select the repo
+
+---
+
 ## Author
 
 [Harsh Chandravanshi](https://harshchandravanshi.me): `Portfolio`
@@ -18,13 +27,6 @@ This repository provides extension for chrome-extension editor which enables chr
 
 - C++ (.cpp, .c++)
 - C (.c)
-
----
-
-## Snippets info
-
-Every space inside `{ }` and `( )` means that this is pushed into next line :)
-`$` represent each step after `tab`.
 
 ---
 
